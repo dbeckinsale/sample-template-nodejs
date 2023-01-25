@@ -9,15 +9,15 @@
   "env": {
     "TWILIO_ACCOUNT_SID": {
       "description": "Your Twilio Account SID. Get a free account at twilio.com/try-twilio",
-      "value": ""
+      "value": "ACe106fc612c78e783538b24574d84d7ed"
     },
     "TWILIO_AUTH_TOKEN": {
       "description": "Your Twilio Auth Token. You can get it at twilio.com/console",
-      "value": ""
+      "value": "1ce8a7ac745662817ec4c25b4018fd7f"
     },
     "TWILIO_PHONE_NUMBER": {
       "description": "The Twilio phone number you want to use to send SMS. Get one in the Twilio Console",
-      "value": "+12345678910"
+      "value": "+441273934601"
     }
   }
 }
